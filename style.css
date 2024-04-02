@@ -1,0 +1,10 @@
+
+body{
+    overflow-x: hidden;
+}
+.container{
+    background-color:	#e3e8e4;
+    border-radius: 15px;
+    height: 80px;
+    font-size: 16.5px;
+}
